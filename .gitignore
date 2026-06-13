@@ -1,0 +1,13 @@
+bola_env/
+__pycache__/
+*.pyc
+.DS_Store
+reports/.cache
+reports/.matplotlib
+*.egg-info/
+.env
+
+# Large data and generated result files (>100 MB)
+data/fobhav_nifty_nse_full.csv
+results/bs_features.csv
+results/bola_lstm_comparison.csv
